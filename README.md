@@ -1,3 +1,4 @@
+
 # Google Search Console MCP Server
 
 A Model Context Protocol (MCP) server that gives AI agents direct access to your Google Search Console data.
@@ -158,3 +159,6 @@ Once configured, ask Claude naturally:
 ## License
 
 MIT
+=======
+# google-search-console
+
